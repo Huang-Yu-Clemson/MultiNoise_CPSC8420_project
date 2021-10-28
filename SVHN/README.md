@@ -1,6 +1,6 @@
 ## SVHN experiments
 
-The code generates Figure 1 (b), Figure 2 (a)
+The code generates Figure 5,7
 
 ### Requirement
 1. Python 3.6
