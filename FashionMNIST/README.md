@@ -1,6 +1,6 @@
 ## FashionMNIST experiments
 
-The code generates Figure 1 (a)
+The code generates Figure 3
 
 ### Requirement
 1. Python 3.6
