@@ -1,6 +1,6 @@
 ## CIFAR-10 experiments
 
-The code generates Figure 1 (c), Figure 2 (b)(c).
+The code generates Figure 5,7,8.
 
 ### Requirement
 1. Python 3.6
