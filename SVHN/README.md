@@ -26,3 +26,10 @@ The code generates Figure 5,7
 
 #### Hyperparameters
 See the [paper](https://arxiv.org/abs/1906.07405).
+
+
+#### For Phase 3
+- MSGD-Fisher: `python ggd.py`
+- MSGD-Cov: `python ggdCov.py`
+- MSGD-[Fisher-B]: `python gdStoF.py`
+- MSGD-[Cov-B]: `python gdStoCov.py`
